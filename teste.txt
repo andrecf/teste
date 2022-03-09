@@ -1,7 +1,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Oi</title>
+	<title>Start</title>
 </head>
 <body>
 	<h1>Começa aqui</h1>
